@@ -78,7 +78,3 @@ Pretendo adicionar, ao longo do tempo:
 - Pequenos sistemas com persistência e lógica mais avançada
 
 Feito com disciplina e vontade de dominar Java ☕
-
-
-Se você quiser, posso sugerir *uma versão resumida* desse README pra usar em repositórios menores também (tipo aqueles só com uns 2 ou 3 exercícios), mantendo consistência no seu portfólio.
-::contentReference[oaicite:4]{index=4}
