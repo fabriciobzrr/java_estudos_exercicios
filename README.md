@@ -61,7 +61,7 @@ Para testar ou estudar o código:
 
 3. Leia os comentários dentro dos exercícios para entender a lógica e o propósito de cada bloco.
 
-📌 Observações
+## 📌 Observações
 
 Cada exercício está isolado em sua própria pasta para manter a organização;
 
